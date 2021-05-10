@@ -38,6 +38,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+body {
+    padding: 1rem;
+}
 
 .cards {
     display: flex;
